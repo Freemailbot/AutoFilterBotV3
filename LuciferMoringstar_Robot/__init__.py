@@ -28,16 +28,15 @@ Bot Owner Only
 """
 
 ABOUT = """
-➥ Name :  Auto Filter V3
+➥ Name :  I'M ALEXA MOVIE BOT 🤩
     
-➥ Creator : [jaisaljosy](
-t.me/jaisaljosy)
+➥ Creator : [jaisaljosy](@jaisaljosy)
 
 ➥ Language : Python3
-➥ CHANNEL : [Click Me](https://t.me/newmovieupdates12)
-
+➥ CHANNEL : [Click Me](https://t.me/alexamovies_in)
+➥ group : [Click Me](https://t.me/alexamoviesfilter_in)
 
 ➥ Library : Pyrogram Asyncio 1.13.0
 
-➥ group : [Click Me](https://t.me/keralamovieshub)
+➥ group : [Click Me](https://t.me/alexamovies_hub)
 """
