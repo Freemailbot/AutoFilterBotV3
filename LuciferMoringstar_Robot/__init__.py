@@ -34,6 +34,8 @@ ABOUT = """
 t.me/jaisaljosy)
 
 ➥ Language : Python3
+➥ CHANNEL : [Click Me](https://t.me/newmovieupdates12)
+
 
 ➥ Library : Pyrogram Asyncio 1.13.0
 
