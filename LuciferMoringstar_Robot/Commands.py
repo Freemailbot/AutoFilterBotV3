@@ -119,7 +119,7 @@ async def start(bot, message):
                 ],[
                 InlineKeyboardButton("Help", callback_data="help"),
                 InlineKeyboardButton("About", callback_data="about")
-                InlinekeyboardButton("HOW To Request movies",[Click Me](https://t.me/c/1794537161/3="HOW To Request movies")
+                InlinekeyboardButton("HOW To Request movies",url=https://t.me/c/1794537161/3"HOW To Request movies")
                 ]]
             )
         )
